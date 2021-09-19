@@ -1,4 +1,4 @@
-### Hello! I am Gurmol👋
+### Hello! I am Gurm👋
 
 Welcome to my one of my favourite places! 
 
