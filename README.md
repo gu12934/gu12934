@@ -8,7 +8,7 @@ I am a passionate data analyst bridging my biology and computer science skills t
 - 🌱 I’m currently learning ML and AI 
 - 👨‍💻 Competitive programming: Codechef | Hackerrank
 - 👯 I’m looking to collaborate on Projects and Hackathons
-- 🤔 I’m looking for help with using Django, Flutter and Google Cloud!
+- 🙋 I’m looking for help with using Django, Flutter and Google Cloud!
 - 💬 Ask me about Python,R, SQL!
 - 📫 How to reach me: gurmolsofly12@gmail.com
 - 😄 Pronouns: He/Him
