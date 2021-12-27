@@ -13,7 +13,9 @@ I am a passionate data analyst bridging my biology and computer science skills t
 - 📫 How to reach me: gurmolsofly12@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a tutor and tech enthusiast
-- 🏃 Hobbies: Playing games like Among us, Ludo, Rolblox🎮
+- 🏃 Hobbies: Playing games like Among us, Ludo, Rolblox
+- 
+- Link to scratch: https://scratch.mit.edu/mystuff/🎮
 
 
 <!--
