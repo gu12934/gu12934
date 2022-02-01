@@ -10,7 +10,7 @@ I am a passionate data analyst bridging my biology and computer science skills t
 - 👯 I’m looking to collaborate on Projects and Hackathons
 - 🙋 I’m looking for help with using Django, Flutter and Google Cloud!
 - 💬 Ask me about Python,R, SQL!
-- 📫 How to reach me: gurmolsofly12@gmail.com
+- 📫 How to reach me: 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a tutor and tech enthusiast
 - 🏃 Hobbies: Playing games like Among us, Ludo, Rolblox
