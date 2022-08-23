@@ -15,7 +15,7 @@ I am a passionate data analyst bridging my biology and computer science skills t
 - ⚡ Fun fact: I am a tutor and tech enthusiast
 - 🏃 Hobbies: Playing games like Among us, Ludo, Rolblox
 - 
-- Link to scratch: https://scratch.mit.edu/mystuff/🎮
+- Link to scratch where i teach kids as a Makerkids Instructor: https://scratch.mit.edu/mystuff/🎮
 
 
 <!--
