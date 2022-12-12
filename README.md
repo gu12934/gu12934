@@ -15,6 +15,8 @@ I am a passionate data analyst bridging my biology and computer science skills t
 - 🏃 Hobbies: Working out, playing sports, watching Netflix
 - 🎮 Devpost: https://devpost.com/gurmolsofly12
 
+![image](https://user-images.githubusercontent.com/36687057/207165732-a0c01165-b8bf-453c-bfc3-352b70e96726.png)
+
 
 <!--
 **gu12934/gu12934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
