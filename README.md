@@ -15,7 +15,7 @@ I am a passionate data analyst bridging my biology and computer science skills t
 - 🏃 Hobbies: Working out, playing sports, watching Netflix
 - 🎮 Devpost: https://devpost.com/gurmolsofly12
 
-![image](https://user-images.githubusercontent.com/36687057/207165732-a0c01165-b8bf-453c-bfc3-352b70e96726.png)
+
 
 
 <!--
@@ -33,4 +33,4 @@ Welcome to my one of my favourite places! I am a passionate data analyst bridgin
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a tutor and tech enthusiast
 - 🏃 Hobbies: Playing games like Among us, Ludo, Rolblox🎮
--->
+-->![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif) 
