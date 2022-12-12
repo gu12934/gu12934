@@ -14,7 +14,7 @@ I am a passionate data analyst bridging my biology and computer science skills t
 - ⚡ Fun fact: I am a tutor and tech enthusiast
 - 🏃 Hobbies: Working out, playing sports, watching Netflix
 - 🎮 Devpost: https://devpost.com/gurmolsofly12
-![Alt Text](https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif)
+- ![Alt Text](https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif)
 
 
 
