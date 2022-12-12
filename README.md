@@ -33,4 +33,5 @@ Welcome to my one of my favourite places! I am a passionate data analyst bridgin
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a tutor and tech enthusiast
 - 🏃 Hobbies: Playing games like Among us, Ludo, Rolblox🎮
--->![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif) 
+- ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif) 
+-->
