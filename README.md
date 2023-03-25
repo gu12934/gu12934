@@ -6,7 +6,7 @@ I am a passionate data analyst bridging my biology and computer science skills t
 
 - 🔭 I’m currently working on my own Website/Blog:  :pencil2:	[Medium](https://medium.com/@gurmolsofly12)
 - 🌱 I’m currently learning ML and AI 
-- 👨‍💻 Competitive programming: Codechef | Hackerrank (https://www.hackerrank.com/gurmolsofly12)
+- 👨‍💻 Competitive programming: Codechef | [Hackerrank](https://www.hackerrank.com/gurmolsofly12)
 - 👯 I’m looking to collaborate on Projects and Hackathons
 - 🙋 I’m looking for help with using Django, Flutter and Google Cloud!
 - 💬 Ask me about Python,R, SQL!
