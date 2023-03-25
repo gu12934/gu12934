@@ -13,7 +13,7 @@ I am a passionate data analyst bridging my biology and computer science skills t
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a tutor and tech enthusiast
 - 🏃 Hobbies: Working out, playing sports, watching Netflix
-- 🎮 Devpost: https://devpost.com/gurmolsofly12
+- 🎮 Devpost:| 💼[Devpost](https://devpost.com/gurmolsofly12)
 - ![Alt Text](https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif)
 
 <h3 align="left">Connect with me:</h3>
