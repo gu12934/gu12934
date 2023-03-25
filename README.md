@@ -16,6 +16,8 @@ I am a passionate data analyst bridging my biology and computer science skills t
 - 🎮 Devpost: https://devpost.com/gurmolsofly12
 - ![Alt Text](https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif)
 
+<h3 align="left">Languages and Skills:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
 
 
 
