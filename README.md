@@ -18,7 +18,8 @@ I am a passionate data analyst bridging my biology and computer science skills t
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gurmol-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurmol-s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gurmol-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurmol-s" height="30" width="40" />
+ </a>
 </p>
 
 <h3 align="left">Languages and Skills:</h3>
@@ -30,11 +31,14 @@ I am a passionate data analyst bridging my biology and computer science skills t
 
 <h2 align="center"> Stats </h2>
 <p align="left">
-![Gurmol's github stats](https://github-readme-stats.vercel.app/api?username=gu12934&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gu12934&hide=html&layout=compact&theme=dracula)](https://github.com/gu12934/github-readme-stats)
+
+  ![Gurmol's github stats](https://github-readme-stats.vercel.app/api?username=gu12934&show_icons=true&theme=dracula)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gu12934&hide=html&layout=compact&theme=dracula)](https://github.com/gu12934/github-readme-stats)
  </p> 
  <p align="center">
-[![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=gu12934&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true")
+
+  ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=gu12934&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true")
  </p>
 
 <!--
