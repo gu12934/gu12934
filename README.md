@@ -35,7 +35,7 @@ I am a passionate data analyst bridging my biology and computer science skills t
   ![Gurmol's github stats](https://github-readme-stats.vercel.app/api?username=gu12934&show_icons=true&theme=dracula)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gu12934&hide=html&layout=compact&theme=dracula)]
-  ![Readme Stats](https://github.com/gu12934/github-readme-stats)
+  
  </p> 
  <p align="center">
 
