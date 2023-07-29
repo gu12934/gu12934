@@ -41,6 +41,7 @@ I am a passionate data analyst bridging my biology and computer science skills t
  <p align="center">
 
   ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=gu12934&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true")
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gu12934.gu12934)
  </p>
 
 <!--
