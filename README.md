@@ -35,15 +35,20 @@ I am a passionate data analyst bridging my biology and computer science skills t
 
   ![Gurmol's github stats](https://github-readme-stats.vercel.app/api?username=gu12934&show_icons=true&theme=dracula)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gu12934&hide=html&layout=compact&theme=dracula)]
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gu12934&hide=html&layout=compact&theme=dracula)
   
  </p> 
  <p align="center">
 
   ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=gu12934&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true")
-  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgu12934%2Fgu12934%2Fblob%2Fmain%2FREADME.md&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgu12934%2Fgu12934%2Fblob%2Fmain%2FREADME.md)
+  
  </p>
+ 
+ </p> 
+ <p align="center">
 
+ [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgu12934%2Fgu12934%2Fblob%2Fmain%2FREADME.md&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgu12934%2Fgu12934%2Fblob%2Fmain%2FREADME.md)
+ </p>
 <!--
 **gu12934/gu12934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
