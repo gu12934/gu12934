@@ -49,6 +49,8 @@ I am a passionate data analyst bridging my biology and computer science skills t
 
  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgu12934%2Fgu12934%2Fblob%2Fmain%2FREADME.md&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgu12934%2Fgu12934%2Fblob%2Fmain%2FREADME.md)
  </p>
+
+ <a href="[https://www.buymeacoffee.com/gurmolsoflW?source=about_page)" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="auto"></a>
 <!--
 **gu12934/gu12934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
