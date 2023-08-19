@@ -52,6 +52,14 @@ I am a passionate data analyst bridging my biology and computer science skills t
 
 
  <a href="https://www.buymeacoffee.com/gurmolsoflW" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="auto"></a>
+
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gu12934" alt="gu12934" /></a> </p>
+
+<h3 align="left">Check out my youtube channel and hackerrank:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/https://www.youtube.com/@gurmsingh1843/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@gurmsingh1843/featured" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gurmolsofly12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gurmolsofly12" height="30" width="40" /></a>
+</p>
 <!--
 **gu12934/gu12934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
