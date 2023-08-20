@@ -55,10 +55,16 @@ I am a passionate data analyst bridging my biology and computer science skills t
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gu12934" alt="gu12934" /></a> </p>
 
-<h3 align="left">Check out my youtube channel and hackerrank:</h3>
+<h3 align="left">Check out my socials:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCMjkIjOmgqO5HOu3XuAiTBg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@gurmsingh1843" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gurmolsofly12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gurmolsofly12" height="30" width="40" /></a>
+</p>
+
+<p align="left">
+<a href="https://codepen.io/gu12934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gu12934" height="30" width="40" /></a>
+<a href="https://kaggle.com/gurmolsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gurmolsingh" height="30" width="40" /></a>
+<a href="https://medium.com/@gurmolsofly12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gurmolsofly12" height="30" width="40" /></a>
 </p>
 <!--
 **gu12934/gu12934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
