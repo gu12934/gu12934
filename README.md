@@ -54,7 +54,7 @@ I am a passionate data analyst bridging my biology and computer science skills t
 
  <a href="https://www.buymeacoffee.com/gurmolsoflW" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="auto"></a>
 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gu12934" alt="gu12934" /></a> </p>
+
 
 <h3 align="left">Check out my socials:</h3>
 <p align="left">
