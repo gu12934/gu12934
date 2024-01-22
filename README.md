@@ -2,7 +2,8 @@
 
 Welcome to one of my favourite places! 
 
--![Alt Text](https://giphy.com/embed/xT9C25UNTwfZuk85WP)
+-![Alt Text]([https://giphy.com/embed/xT9C25UNTwfZuk85WP](https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP))
+
 <iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>
 
 I am a passionate data analyst bridging my biology and computer science skills to develop healthcare applications! Ever since I completed my Biology Undergraduate, I have been learning about Brain Computer Interfaces (BCI) as well as how to analyze public health datasets from Kaggle and StatsCanada. Interested in web, OSS and biotech/neurotech as well as python libraries. Currently, I am learning about machine learning and how to create neural networks or building web applications, all my work is focused on one thing: making a difference to the wider community. In my spare time, you can find me watching anime, working out and traveling finding new places while playing Pokemon GO. I love doing hackathons and developing new skills as well as working together with various people to create an impact and develop new applications! 🚀
