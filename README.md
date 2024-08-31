@@ -2,8 +2,6 @@
 
 🚀Welcome to one of my favourite places! 🚀
 
-![Alt Text](https://media.giphy.com/media/UMyvk17PIo3SiZQWju/giphy.gif)
-
 ***
 I am a passionate data analyst bridging my biology and computer science skills to develop healthcare applications! Ever since I completed my Biology Undergraduate, I have been learning about Brain Computer Interfaces (BCI) as well as how to analyze public health datasets from Kaggle and StatsCanada. Interested in web, OSS and biotech/neurotech as well as python libraries. Currently, I am learning about machine learning and how to create neural networks or building web applications, all my work is focused on one thing: making a difference to the wider community. In my spare time, you can find me watching anime, working out and traveling finding new places while playing Pokemon GO. I love doing hackathons and developing new skills as well as working together with various people to create an impact and develop new applications! 
 
