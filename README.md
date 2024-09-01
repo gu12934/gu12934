@@ -3,6 +3,7 @@
 <h2 align="center">🚀Welcome to one of my favourite places! 🚀</h2>
 
 ***
+## About
 <h2 align="center"> About Me </h2>
 
 I am a passionate data analyst bridging my biology and computer science skills to develop healthcare applications! Ever since I completed my Biology Undergraduate, I have been learning about Brain Computer Interfaces (BCI) as well as how to analyze public health datasets from Kaggle and StatsCanada. Interested in web, OSS and biotech/neurotech as well as python libraries. Currently, I am learning about machine learning and how to create neural networks or building web applications, all my work is focused on one thing: making a difference to the wider community. In my spare time, you can find me watching anime, working out and traveling finding new places while playing Pokemon GO. I love doing hackathons and developing new skills as well as working together with various people to create an impact and develop new applications! 
@@ -21,6 +22,19 @@ I am a passionate data analyst bridging my biology and computer science skills t
 - 🔍[Credly](https://www.credly.com/users/gurmol-sohi/badges)
 - ▶️[Youtube](https://www.youtube.com/@gurmsingh1843/featured)
 
+***
+## Table of Contents
+- [About](#About)
+- [About](#Projects)
+***
+
+## Projects
+<h2 align="center"> Lighthouse Labs </h2>
+For more details ---> [go to repo...](https://github.com/gu12934/Lighthouse_labs_2024)  
+- [Transforming and Analyzing Data with SQL](https://github.com/gu12934/SQL-Project-LHL)
+- [Statistical Modelling with Python](gu12934/-LHL-Statistical-Modelling-Project)
+- [Data Visualization and Dashboards with Tableau](gu12934/LHL-Final-Project-Tableau)
+- [Capstone Project](gu12934/LHL_Final_Capstone_Project)
 ***
 
 <h3 align="center">Connect with me</h3>
