@@ -3,6 +3,8 @@
 🚀Welcome to one of my favourite places! 🚀
 
 ***
+<h2 align="center"> About Me </h2>
+
 I am a passionate data analyst bridging my biology and computer science skills to develop healthcare applications! Ever since I completed my Biology Undergraduate, I have been learning about Brain Computer Interfaces (BCI) as well as how to analyze public health datasets from Kaggle and StatsCanada. Interested in web, OSS and biotech/neurotech as well as python libraries. Currently, I am learning about machine learning and how to create neural networks or building web applications, all my work is focused on one thing: making a difference to the wider community. In my spare time, you can find me watching anime, working out and traveling finding new places while playing Pokemon GO. I love doing hackathons and developing new skills as well as working together with various people to create an impact and develop new applications! 
 
 - 🔭 I’m currently working on my own Website/Blog: | :pencil2:	[Medium](https://medium.com/@gurmolsofly12)
@@ -63,7 +65,7 @@ I am a passionate data analyst bridging my biology and computer science skills t
 
 ***
 
-<h3 align="center">Socials:</h3>
+<h3 align="center">Socials</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCMjkIjOmgqO5HOu3XuAiTBg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@gurmsingh1843" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gurmolsofly12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gurmolsofly12" height="30" width="40" /></a>
