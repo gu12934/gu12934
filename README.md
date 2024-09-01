@@ -37,9 +37,13 @@ I am a passionate data analyst bridging my biology and computer science skills t
 
 ***
 <h2 align="center"> Stats </h2>
-<p align="center">
 
-  ![Gurmol's github stats](https://github-readme-stats.vercel.app/api?username=gu12934&show_icons=true&theme=dracula)
+ <p align="center">
+
+ [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgu12934%2Fgu12934%2Fblob%2Fmain%2FREADME.md&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgu12934%2Fgu12934%2Fblob%2Fmain%2FREADME.md)
+ </p>
+
+<p align="center">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gu12934&hide=html&layout=compact&theme=dracula)
   
@@ -51,10 +55,7 @@ I am a passionate data analyst bridging my biology and computer science skills t
  </p>
  
  </p> 
- <p align="center">
 
- [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgu12934%2Fgu12934%2Fblob%2Fmain%2FREADME.md&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgu12934%2Fgu12934%2Fblob%2Fmain%2FREADME.md)
- </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=gu12934)
 
