@@ -38,9 +38,9 @@ List of courses:
   
 - [Statistical Modelling with Python](-LHL-Statistical-Modelling-Project)
   
-- [Data Visualization and Dashboards with Tableau](gu12934/LHL-Final-Project-Tableau)
+- [Data Visualization and Dashboards with Tableau](LHL-Final-Project-Tableau)
   
-- [Capstone Project](gu12934/LHL_Final_Capstone_Project)
+- [Capstone Project](LHL_Final_Capstone_Project)
 ***
 
 <h3 align="center">Connect with me</h3>
