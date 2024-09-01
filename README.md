@@ -1,6 +1,6 @@
 ### Hello! I am Gurm👋
 
-🚀Welcome to one of my favourite places! 🚀
+<h2 align="center">🚀Welcome to one of my favourite places! 🚀</h2>
 
 ***
 <h2 align="center"> About Me </h2>
