@@ -36,11 +36,11 @@ For more details ---> [go to repo...](https://github.com/gu12934/Lighthouse_labs
 List of courses:
 - [Transforming and Analyzing Data with SQL](SQL-Project-LHL)
   
-- [Statistical Modelling with Python](-LHL-Statistical-Modelling-Project)
+- [Statistical Modelling with Python](-LHL-Statistical-Modelling-Project/README.md)
   
-- [Data Visualization and Dashboards with Tableau](LHL-Final-Project-Tableau)
+- [Data Visualization and Dashboards with Tableau](LHL-Final-Project-Tableau/README.md)
   
-- [Capstone Project](LHL_Final_Capstone_Project)
+- [Capstone Project](LHL_Final_Capstone_Project/README.md)
 ***
 
 <h3 align="center">Connect with me</h3>
