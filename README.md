@@ -3,7 +3,7 @@
 <h2 align="center">🚀Welcome to one of my favourite places! 🚀</h2>
 
 ***
-## About
+## About📙
 
 I am a passionate data analyst bridging my biology and computer science skills to develop healthcare applications! Ever since I completed my Biology Undergraduate, I have been learning about Brain Computer Interfaces (BCI) as well as how to analyze public health datasets from Kaggle and StatsCanada. Interested in web, OSS and biotech/neurotech as well as python libraries. Currently, I am learning about machine learning and how to create neural networks or building web applications, all my work is focused on one thing: making a difference to the wider community. In my spare time, you can find me watching anime, working out and traveling finding new places while playing Pokemon GO. I love doing hackathons and developing new skills as well as working together with various people to create an impact and develop new applications! 
 
@@ -22,12 +22,12 @@ I am a passionate data analyst bridging my biology and computer science skills t
 - ▶️[Youtube](https://www.youtube.com/@gurmsingh1843/featured)
 
 ***
-## Table of Contents
+## Table of Contents📖
 - [About](#About)
 - [Projects](#Projects)
 ***
 
-## Projects
+## Projects🛠️
 <h2 align="center"> Lighthouse Labs </h2>
 
 For more details ---> [go to repo...](https://github.com/gu12934/Lighthouse_labs_2024)  
@@ -42,13 +42,13 @@ List of courses:
 - [Capstone Project]
 ***
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Connect with me📩</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gurmol-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurmol-s" height="30" width="40" />
  </a>
 </p>
 
-<h3 align="center">Languages and Skills</h3>
+<h3 align="center">Languages and Skills💎</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
@@ -57,7 +57,7 @@ List of courses:
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 ***
-<h2 align="center"> Stats </h2>
+<h2 align="center"> Stats</> </h2>
 
  <p align="center">
 
@@ -84,7 +84,7 @@ List of courses:
 
 ***
 
-<h3 align="center">Socials</h3>
+<h3 align="center">Socials🎁</h3>
 
 <a href="https://www.buymeacoffee.com/gurmolsoflW" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="auto"></a>
 
