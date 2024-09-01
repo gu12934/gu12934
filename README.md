@@ -34,13 +34,13 @@ I am a passionate data analyst bridging my biology and computer science skills t
 For more details ---> [go to repo...](https://github.com/gu12934/Lighthouse_labs_2024)  
 
 List of courses:
-- [Transforming and Analyzing Data with SQL](SQL-Project-LHL)
+- [Transforming and Analyzing Data with SQL]
   
-- [Statistical Modelling with Python](-LHL-Statistical-Modelling-Project)
+- [Statistical Modelling with Python]
   
-- [Data Visualization and Dashboards with Tableau](LHL-Final-Project-Tableau)
+- [Data Visualization and Dashboards with Tableau]
   
-- [Capstone Project](LHL_Final_Capstone_Project)
+- [Capstone Project]
 ***
 
 <h3 align="center">Connect with me</h3>
