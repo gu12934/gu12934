@@ -16,10 +16,10 @@ I am a passionate data analyst bridging my biology and computer science skills t
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a tutor and tech enthusiast
 - 🏃 Hobbies: Working out, playing sports, watching Netflix
-- 🎮[Website](https://gurmolthedataguy.netlify.app/) <---- find some of my projects here !!
-- 💼[Devpost](https://devpost.com/gurmolsofly12) <---- more projects !!
+- 🎮[Website](https://gurmolthedataguy.netlify.app/) <---- find some of my projects here !!🚀🚀
+- 💼[Devpost](https://devpost.com/gurmolsofly12) <---- more projects !!🚀🚀
 - 🔍[Credly](https://www.credly.com/users/gurmol-sohi/badges)
-- ▶️[Youtube](https://www.youtube.com/@gurmsingh1843/featured) <--- if you like content creation
+- ▶️[Youtube](https://www.youtube.com/@gurmsingh1843/featured) <--- if you like content creation🚀🚀
 
 ***
 ## Table of Contents📖
@@ -30,9 +30,9 @@ I am a passionate data analyst bridging my biology and computer science skills t
 ## Projects🛠️
 <h2 align="center"> Lighthouse Labs💡 </h2>
 
-Check out my youtube playlist: ▶️[Youtube]([https://www.youtube.com/@gurmsingh1843/featured](https://www.youtube.com/watch?v=raTSz0A2bQY&list=PL5eabeklcWhzReOid3V4T-qSgCVI7FXL0)) 
+Check out my youtube playlist: ▶️[Youtube]([https://www.youtube.com/@gurmsingh1843/featured](https://www.youtube.com/watch?v=raTSz0A2bQY&list=PL5eabeklcWhzReOid3V4T-qSgCVI7FXL0)) 🚀🚀
 
-Click here for a detailed breakdown ---> [go to repo...](https://github.com/gu12934/Lighthouse_labs_2024)  
+Click here for a detailed breakdown ---> [go to repo...](https://github.com/gu12934/Lighthouse_labs_2024)  🚀🚀
 
 List of courses:
 - [Transforming and Analyzing Data with SQL]
