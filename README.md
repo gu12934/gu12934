@@ -30,7 +30,7 @@ I am a passionate data analyst bridging my biology and computer science skills t
 ## Projects🛠️
 <h2 align="center"> Lighthouse Labs💡 </h2>
 
-Check out my youtube playlist: ▶️[Woohoo!!](https://www.youtube.com/watch?v=raTSz0A2bQY&list=PL5eabeklcWhzReOid3V4T-qSgCVI7FXL0]) 🚀🚀
+Check out my youtube playlist: ▶️[Woohoo!!](https://www.youtube.com/watch?v=raTSz0A2bQY&list=PL5eabeklcWhzReOid3V4T-qSgCVI7FXL0&pp=gAQB]) 🚀🚀
 
 Click here for a detailed breakdown ---> [go to repo...](https://github.com/gu12934/Lighthouse_labs_2024)  🚀🚀
 
