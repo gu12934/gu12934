@@ -19,7 +19,6 @@ I am a passionate data analyst bridging my biology and computer science skills t
 - 🎮[Website](https://gurmolthedataguy.netlify.app/) <---- find some of my projects here !!🚀🚀
 - 💼[Devpost](https://devpost.com/gurmolsofly12) <---- more projects !!🚀🚀
 - 🔍[Credly](https://www.credly.com/users/gurmol-sohi/badges)
-- ▶️[Youtube](https://www.youtube.com/@gurmsingh1843/featured) <--- if you like content creation🚀🚀
 - ⭐[Patreon](https://patreon.com/Gurs12?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
 - ☀️[Topmate](https://topmate.io/gurmol_singh)
 
