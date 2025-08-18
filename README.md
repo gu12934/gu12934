@@ -17,6 +17,7 @@ I am a passionate data analyst bridging my biology and computer science skills t
 - 🏃 Hobbies: Working out, playing sports, watching Netflix
 - 🎮[Website](https://gurmolthedataguy.netlify.app/) <---- find some of my projects here !!🚀🚀
 - 💼[Devpost](https://devpost.com/gurmolsofly12) <---- more projects !!🚀🚀
+- 💼[Tableau](https://public.tableau.com/app/profile/gurmol.sohi/vizzes)
 - 🔍[Credly](https://www.credly.com/users/gurmol-sohi/badges)
 - ⭐[Patreon](https://patreon.com/Gurs12?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
 - ☀️[Topmate](https://topmate.io/gurmol_singh) - Feel free to book a chat with me to learn more
