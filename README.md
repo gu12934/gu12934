@@ -15,8 +15,9 @@ I am a passionate data analyst bridging my biology and computer science skills t
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a tutor and tech enthusiast
 - 🏃 Hobbies: Working out, playing sports, watching Netflix
-- 🎮[Old Website](https://gurmolthedataguy.netlify.app/)
+- 🎮[Old Projects](https://gurmolthedataguy.netlify.app/)
 - 🎮[New Website](https://gu12934.github.io/Gurm_Website_2025/index.html)
+- 🎮[Repl.it site](https://14baa045-fb82-4687-9bba-d7fb9179981b-00-5o4irbpdcyxg.janeway.replit.dev/)
 - 💼[Devpost](https://devpost.com/gurmolsofly12) <---- more projects !!🚀🚀
 - 💼[Tableau](https://public.tableau.com/app/profile/gurmol.sohi/vizzes)
 - 🔍[Credly](https://www.credly.com/users/gurmol-sohi/badges)
