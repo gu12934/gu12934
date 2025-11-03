@@ -5,13 +5,15 @@
 ***
 ## About📙
 
-I am a passionate data analyst bridging my biology and data science skills to develop healthcare applications! Ever since I completed my Biology Undergraduate, I have been learning about Brain Computer Interfaces (BCI) as well as how to analyze public health datasets from Kaggle and StatsCanada. Interested in web, OSS and biotech/neurotech as well as python libraries. Currently, I am learning about machine learning and how to create neural networks or building web applications, all my work is focused on one thing: making a difference to the wider community. In my spare time, you can find me watching anime, working out and traveling finding new places while playing Pokemon GO. I love doing hackathons and developing new skills as well as working together with various people to create an impact and develop new applications! 
+I am a passionate data analyst bridging my biology and data science skills to develop healthcare applications! 
 
-- 🌱 I’m currently learning ML and AI 
+I have been learning about Brain Computer Interfaces (BCI) as well as how to analyze public health datasets from Kaggle and StatsCanada. Interested in web, OSS and biotech/neurotech as well as python libraries. Currently, I am learning about machine learning and how to create neural networks or building web applications, all my work is focused on one thing: making a difference to the wider community. I love doing hackathons and developing new skills as well as working together with various people to create an impact and develop new applications! Feel free to reach out if you would like to colloborate. 
+
+- 🌱 I’m currently learning about automations
 - 👨‍💻 Competitive programming: Codechef | 💾[Hackerrank](https://www.hackerrank.com/gurmolsofly12) | ⌚[Freecodecamp](https://www.freecodecamp.org/gu12934)
 - 👯 I’m looking to collaborate on Projects and Hackathons
 - 🙋 I’m looking for help with using Django, Flutter and Google Cloud!
-- 💬 Ask me about Python,R, SQL!
+- 💬 Ask me about Python, R, SQL!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a tutor and tech enthusiast
 - 🏃 Hobbies: Working out, playing sports, watching Netflix
