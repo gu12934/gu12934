@@ -5,9 +5,9 @@
 ***
 ## About📙
 
-I am a passionate data analyst bridging my biology and data science skills to develop healthcare applications! 
+I am a passionate data analyst bridging my biology and data science skills to develop healthcare applications! I have been learning about Brain Computer Interfaces (BCI) as well as how to analyze public health datasets from Kaggle and StatsCanada. Interested in web, OSS and biotech/neurotech as well as python libraries. 
 
-I have been learning about Brain Computer Interfaces (BCI) as well as how to analyze public health datasets from Kaggle and StatsCanada. Interested in web, OSS and biotech/neurotech as well as python libraries. Currently, I am learning about machine learning and how to create neural networks or building web applications, all my work is focused on one thing: making a difference to the wider community. I love doing hackathons and developing new skills as well as working together with various people to create an impact and develop new applications! Feel free to reach out if you would like to colloborate. 
+Currently, I am learning about machine learning and how to create neural networks or building web applications, all my work is focused on one thing: making a difference to the wider community. I love doing hackathons and developing new skills as well as working together with various people to create an impact and develop new applications! Feel free to reach out if you would like to colloborate. 
 
 - 🌱 I’m currently learning about automations
 - 👨‍💻 Competitive programming: Codechef | 💾[Hackerrank](https://www.hackerrank.com/gurmolsofly12) | ⌚[Freecodecamp](https://www.freecodecamp.org/gu12934)
