@@ -15,7 +15,7 @@ Currently, I am learning about machine learning and how to create neural network
 - 🏃 Hobbies: Working out, playing sports
 - 🎮[React Site](https://gurmolthedataguy.netlify.app/)
 - 🎮[New Website](https://gu12934.github.io/Gurm_portfolio_oct_2025/)
-- 💼[Devpost](https://devpost.com/gurmolsofly12) <---- more projects !!🚀🚀
+- 💼[Devpost](https://devpost.com/gurmolsofly12) 🚀
 - 💼[Tableau](https://public.tableau.com/app/profile/gurmol.sohi/vizzes)
 - ⭐[Patreon](https://patreon.com/Gurs12?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
 - ☀️[Topmate](https://topmate.io/gurmol_singh) - Feel free to book a chat with me to learn more
