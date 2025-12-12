@@ -12,7 +12,7 @@ Currently, I am learning about machine learning and how to create neural network
 - 🌱 I’m currently learning about automations
 - 👨‍💻 Competitive programming: Codechef | 💾[Hackerrank](https://www.hackerrank.com/gurmolsofly12) | ⌚[Freecodecamp](https://www.freecodecamp.org/gu12934)
 - ⚡ Fun fact: I am a tutor and tech enthusiast
-- 🏃 Hobbies: Working out, playing sports, watching Netflix
+- 🏃 Hobbies: Working out, playing sports
 - 🎮[React Site](https://gurmolthedataguy.netlify.app/)
 - 🎮[New Website](https://gu12934.github.io/Gurm_portfolio_oct_2025/)
 - 💼[Devpost](https://devpost.com/gurmolsofly12) <---- more projects !!🚀🚀
