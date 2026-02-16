@@ -95,6 +95,13 @@ List of courses:
 <a href="https://kaggle.com/gurmolsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gurmolsingh" height="30" width="40" /></a>
 <a href="https://medium.com/@gurmolsofly12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gurmolsofly12" height="30" width="40" /></a>
 </p>
+
+### 📺 YouTube Videos
+<!-- BEGIN YOUTUBE-CARDS -->
+[![PowerBi Tutorial with Streamlit](https://ytcards.demolab.com/?id=0T16w4Ubmqk&title=Your+YouTube+Video&lang=en&timestamp=1771153090&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Your YouTube Video")](https://www.youtube.com/watch?v=0T16w4Ubmqk)
+<!-- END YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
 <!--
 **gu12934/gu12934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
