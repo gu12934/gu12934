@@ -98,7 +98,7 @@ List of courses:
 
 ### 📺 YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![PowerBi Tutorial with Streamlit](https://ytcards.demolab.com/?id=0T16w4Ubmqk&title=Your+YouTube+Video&lang=en&timestamp=1771153090&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "PowerBi With Streamlit")](https://www.youtube.com/watch?v=0T16w4Ubmqk)
+[![PowerBi Tutorial with Streamlit](https://ytcards.demolab.com/?id=0T16w4Ubmqk&title=PowerBi+Tutorial+with+Streamlit&lang=en&timestamp=1771153090&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "PowerBi With Streamlit")](https://www.youtube.com/watch?v=0T16w4Ubmqk)
 <!-- END YOUTUBE-CARDS -->
 
 <!--
