@@ -92,15 +92,29 @@ List of courses:
 <a href="https://medium.com/@gurmolsofly12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gurmolsofly12" height="30" width="40" /></a>
 </p>
 
-### 📺 YouTube Videos
+### <h2 align="center">📺 YouTube Videos </h2>
 <!-- BEGIN YOUTUBE-CARDS -->
 [![PowerBi Tutorial with Streamlit](https://ytcards.demolab.com/?id=0T16w4Ubmqk&title=PowerBi+Tutorial+with+Streamlit&lang=en&timestamp=1771153090&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "PowerBi With Streamlit")](https://www.youtube.com/watch?v=0T16w4Ubmqk)
 
-<!-- BEGIN YOUTUBE-CARDS -->
+
 [![30 Day DataSci Challenge day 1](https://ytcards.demolab.com/?id=QMkAsLUpHfA&title=30+Day+DataSci+Challenge+day+1&lang=en&timestamp=1771153090&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "30 Day DataSci Challenge day 1")](https://www.youtube.com/watch?v=QMkAsLUpHfA)
 <!-- END YOUTUBE-CARDS -->
+<h2 align="center">📺 YouTube Videos</h2>
 
-<!-- END YOUTUBE-CARDS -->
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- Video 1 -->
+  <a href="https://www.youtube.com/watch?v=0T16w4Ubmqk">
+    <img src="https://ytcards.demolab.com/?id=0T16w4Ubmqk&title=PowerBi+Tutorial+with+Streamlit&lang=en&timestamp=1771153090&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="PowerBi Tutorial with Streamlit">
+  </a>
+
+  <!-- Video 2 -->
+  <a href="https://www.youtube.com/watch?v=QMkAsLUpHfA">
+    <img src="https://ytcards.demolab.com/?id=QMkAsLUpHfA&title=30+Day+DataSci+Challenge+day+1&lang=en&timestamp=1771153090&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="30 Day DataSci Challenge day 1">
+  </a>
+
+</div>
+
 
 <!--
 **gu12934/gu12934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
