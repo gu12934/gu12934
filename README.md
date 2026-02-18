@@ -21,10 +21,6 @@ Currently, I am learning about machine learning and how to create neural network
 - ☀️[Topmate](https://topmate.io/gurmol_singh) - Feel free to book a chat with me to learn more
 
 ***
-## Table of Contents📖
-- [About](#About)
-- [Projects](#Projects)
-***
 
 ## Projects🛠️
 <h2 align="center"> Lighthouse Labs💡 </h2>
