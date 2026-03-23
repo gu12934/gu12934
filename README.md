@@ -92,7 +92,7 @@ List of courses:
 <a href="https://medium.com/@gurmolsofly12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gurmolsofly12" height="30" width="40" /></a>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/gu12934/gu12934/output/snake.svg)
+![Snake animation](https://gu12934.github.io/gu12934/snake.svg)
 
 ### 
 <h2 align="center">📺 YouTube Videos</h2>
