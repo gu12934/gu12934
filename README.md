@@ -26,15 +26,6 @@ Currently, I am learning about machine learning and how to create neural network
 <h2 align="center"> Lighthouse Labs💡 </h2>
 
 Click here for a detailed breakdown ---> [go to repo...](https://github.com/gu12934/Lighthouse_labs_2024)  🚀🚀
-
-List of courses:
-- [Transforming and Analyzing Data with SQL]
-  
-- [Statistical Modelling with Python]
-  
-- [Data Visualization and Dashboards with Tableau]
-  
-- [Capstone Project]
 ***
 
 <h3 align="center">Connect with me📩</h3>
